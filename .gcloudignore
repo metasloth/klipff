@@ -1,0 +1,23 @@
+# Files to ignore when deploying to Cloud Functions
+
+node_modules
+
+# Repo Files
+.editorconfig
+.eslintrc.json
+.nvmrc
+.prettierignore
+.prettierrc
+nx.json
+package-lock.json
+workspace.json
+yarn.lock
+
+# Source Folders
+/apps
+/libs
+/tmp
+
+# Working files
+tmp*
+foo*
