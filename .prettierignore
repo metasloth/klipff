@@ -1,0 +1,8 @@
+# Add files here to ignore them from prettier formatting
+
+/dist
+/coverage
+
+/apps/ui/node_modules
+/apps/ui/public
+/apps/ui/.cache
